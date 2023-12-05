@@ -1,5 +1,4 @@
 void main(List<String> args) {
-  // `const` prevents you from chanc
   const name = "Foo";
   print(name);
 }
